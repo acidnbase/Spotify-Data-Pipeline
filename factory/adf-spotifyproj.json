@@ -1,0 +1,9 @@
+{
+	"name": "adf-spotifyproj",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "df31d3e0-a66b-4cf9-83ff-243dd974ed91",
+		"tenantId": "edbfc4c9-3d98-4181-85a3-fd4aa3054a2f"
+	}
+}
